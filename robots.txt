@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://p-49b9295e5f.gangzharc.cn/sitemap.xml
